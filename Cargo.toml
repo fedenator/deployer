@@ -1,0 +1,8 @@
+[package]
+name    = "deployer"
+version = "0.0.2"
+edition = "2018"
+
+[dependencies]
+clap = { path = "/home/fpalacios/workspace/clap" }
+# clap = { path = "/home/fpalacios/workspace/clap", features = ["debug"] }
